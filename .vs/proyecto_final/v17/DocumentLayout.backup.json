@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\paginas\\pagina_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\leonel flores\\desktop\\proyecto_final(25)\\paginas\\pagina_medico_turno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_medico_turno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\leonel flores\\desktop\\proyecto_final(25)\\paginas\\pagina_medico_turno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_medico_turno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\leonel flores\\desktop\\proyecto_final(25)\\paginas\\pagina_medico_pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_medico_pacientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\entidad\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:entidad\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\paginas\\pagina_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\datos\\medico_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:datos\\medico_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\datos\\turno_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:datos\\turno_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\negocio\\turno_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:negocio\\turno_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\leonel flores\\desktop\\proyecto_final(25)\\paginas\\pagina_asignar_turnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_asignar_turnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\paginas\\pagina_asignar_turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_asignar_turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\entidad\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:entidad\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\datos\\paciente_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:datos\\paciente_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\entidad\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:entidad\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\entidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:entidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\paginas\\pagina_abml_medico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_abml_medico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\datos\\usuario_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:datos\\usuario_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 210,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pagina_asignar_turnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "RelativeToolTip": "Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwJcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:46:59.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pagina_asignar_turnos.aspx",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_asignar_turnos.aspx",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_asignar_turnos.aspx",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_asignar_turnos.aspx",
+              "RelativeToolTip": "Paginas\\Pagina_asignar_turnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-26T02:46:53.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pagina_Medico_Pacientes.aspx",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_Medico_Pacientes.aspx",
+              "RelativeDocumentMoniker": "Paginas\\pagina_Medico_Pacientes.aspx",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_Medico_Pacientes.aspx",
+              "RelativeToolTip": "Paginas\\pagina_Medico_Pacientes.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-27T19:17:27.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pagina_Medico_Turno.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_Medico_Turno.aspx.cs",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_Medico_Turno.aspx.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_Medico_Turno.aspx.cs",
+              "RelativeToolTip": "Paginas\\Pagina_Medico_Turno.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:07:05.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagina_Medico_Turno.aspx",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_Medico_Turno.aspx",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_Medico_Turno.aspx",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\Pagina_Medico_Turno.aspx*",
+              "RelativeToolTip": "Paginas\\Pagina_Medico_Turno.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-27T19:05:02.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Paciente_clinica.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Paciente_clinica.cs",
+              "RelativeDocumentMoniker": "Datos\\Paciente_clinica.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Paciente_clinica.cs",
+              "RelativeToolTip": "Datos\\Paciente_clinica.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:12:54.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turno_negocio.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Negocio\\Turno_negocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Turno_negocio.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Negocio\\Turno_negocio.cs",
+              "RelativeToolTip": "Negocio\\Turno_negocio.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:17:37.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Turno.cs",
+              "RelativeDocumentMoniker": "Entidad\\Turno.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Turno.cs",
+              "RelativeToolTip": "Entidad\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:56:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Turno_clinica.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Turno_clinica.cs",
+              "RelativeDocumentMoniker": "Datos\\Turno_clinica.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Turno_clinica.cs",
+              "RelativeToolTip": "Datos\\Turno_clinica.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:26:55.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "medico_clinica.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\medico_clinica.cs",
+              "RelativeDocumentMoniker": "Datos\\medico_clinica.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\medico_clinica.cs",
+              "RelativeToolTip": "Datos\\medico_clinica.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAIwNEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:34:05.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Paciente.cs",
+              "RelativeDocumentMoniker": "Entidad\\Paciente.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Paciente.cs",
+              "RelativeToolTip": "Entidad\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:12:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:59:15.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "pagina_ABML_Medico.aspx",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_ABML_Medico.aspx",
+              "RelativeDocumentMoniker": "Paginas\\pagina_ABML_Medico.aspx",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_ABML_Medico.aspx",
+              "RelativeToolTip": "Paginas\\pagina_ABML_Medico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-25T23:56:51.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pagina_login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_login.aspx.cs",
+              "RelativeDocumentMoniker": "Paginas\\pagina_login.aspx.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_login.aspx.cs",
+              "RelativeToolTip": "Paginas\\pagina_login.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:51:40.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Medico.cs",
+              "RelativeDocumentMoniker": "Entidad\\Medico.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Medico.cs",
+              "RelativeToolTip": "Entidad\\Medico.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:49:29.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuario_clinica.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Usuario_clinica.cs",
+              "RelativeDocumentMoniker": "Datos\\Usuario_clinica.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Datos\\Usuario_clinica.cs",
+              "RelativeToolTip": "Datos\\Usuario_clinica.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:46:17.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Entidad\\Usuario.cs",
+              "RelativeToolTip": "Entidad\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:45:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pagina_login.aspx",
+              "DocumentMoniker": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_login.aspx",
+              "RelativeDocumentMoniker": "Paginas\\pagina_login.aspx",
+              "ToolTip": "C:\\Users\\leonel flores\\Desktop\\proyecto_final(25)\\Paginas\\pagina_login.aspx",
+              "RelativeToolTip": "Paginas\\pagina_login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-25T23:31:51.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
