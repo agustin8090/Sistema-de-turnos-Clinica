@@ -1,0 +1,9 @@
+C:\Users\agust\Desktop\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\agust\Desktop\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\agust\Desktop\Acceso Datos\bin\Debug\Entidad.dll
+C:\Users\agust\Desktop\Acceso Datos\bin\Debug\Entidad.pdb
+C:\Users\agust\Desktop\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Acceso Datos\obj\Debug\Acceso D.E2B3F8D7.Up2Date
+C:\Users\agust\Desktop\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\agust\Desktop\Acceso Datos\obj\Debug\Acceso Datos.pdb

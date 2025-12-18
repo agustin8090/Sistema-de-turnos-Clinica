@@ -1,0 +1,30 @@
+C:\Users\agust\Desktop\Entidad\bin\Debug\Entidad.dll
+C:\Users\agust\Desktop\Entidad\bin\Debug\Entidad.pdb
+C:\Users\agust\Desktop\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Entidad\obj\Debug\Entidad.dll
+C:\Users\agust\Desktop\Entidad\obj\Debug\Entidad.pdb
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Entidad\bin\Debug\Entidad.dll
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Entidad\bin\Debug\Entidad.pdb
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Entidad\obj\Debug\Entidad.dll
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Entidad\bin\Debug\Entidad.dll
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Entidad\obj\Debug\Entidad.dll
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Entidad\obj\Debug\Entidad.pdb
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Entidad\bin\Debug\Entidad.dll
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Entidad\bin\Debug\Entidad.pdb
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Entidad\obj\Debug\Entidad.dll
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Entidad\obj\Debug\Entidad.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Entidad\bin\Debug\Entidad.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Entidad\bin\Debug\Entidad.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Entidad\obj\Debug\Entidad.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Entidad\obj\Debug\Entidad.pdb

@@ -1,0 +1,143 @@
+C:\Users\agust\Desktop\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\Desktop\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\Desktop\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\agust\Desktop\Negocio\bin\Debug\Entidad.dll
+C:\Users\agust\Desktop\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\agust\Desktop\Negocio\bin\Debug\Entidad.pdb
+C:\Users\agust\Desktop\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\agust\Desktop\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\Desktop\Negocio\obj\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\bin\Debug\Entidad.dll
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\bin\Debug\Entidad.pdb
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\proyecto agus\tpFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agust\Desktop\tpFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\Desktop\tpFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\Desktop\tpFinal\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\agust\Desktop\tpFinal\Negocio\bin\Debug\Entidad.dll
+C:\Users\agust\Desktop\tpFinal\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\agust\Desktop\tpFinal\Negocio\bin\Debug\Entidad.pdb
+C:\Users\agust\Desktop\tpFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\tpFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\tpFinal\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\agust\Desktop\tpFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\Desktop\tpFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\bin\Debug\Entidad.dll
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\bin\Debug\Entidad.pdb
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\pvssa\Desktop\tpFinal(99)\tpFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\bin\Debug\Entidad.dll
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Mate´s pc\Downloads\final(1)\final(1)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\bin\Debug\Negocio.dll
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\bin\Debug\Entidad.dll
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\bin\Debug\Entidad.pdb
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\obj\Debug\Negocio.dll
+C:\Users\pvssa\Desktop\final(2)\final(1)\final(1)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\bin\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\bin\Debug\Entidad.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\bin\Debug\Entidad.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\obj\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado pato\final(5)\final(5)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dante\Desktop\final(5)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dante\Desktop\final(5)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dante\Desktop\final(5)\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\Dante\Desktop\final(5)\Negocio\bin\Debug\Entidad.dll
+C:\Users\Dante\Desktop\final(5)\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\Dante\Desktop\final(5)\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Dante\Desktop\final(5)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Dante\Desktop\final(5)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dante\Desktop\final(5)\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Dante\Desktop\final(5)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dante\Desktop\final(5)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\obj\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\bin\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\bin\Debug\Entidad.dll
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\bin\Debug\Entidad.pdb
+C:\Users\leonel flores\Desktop\proyecto actualizado dante\final(5)\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.dll
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.pdb
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\Proyecto Final\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.dll
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.pdb
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.dll
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dante\Desktop\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.dll
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\bin\Debug\Entidad.pdb
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\leonel flores\Desktop\Proyecto Final (Final)\TPINT_GRUPO_3_PR3\Negocio\obj\Debug\Negocio.pdb
